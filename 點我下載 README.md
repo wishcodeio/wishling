@@ -71,18 +71,23 @@ wishling_bot_v1/
 │   └── settings.py                 # 放 TELEGRAM_TOKEN
 ├── handlers/
 │   ├── activate.py
-│   ├── wishdeck.py
 │   ├── cards.py
-│   ├── dream.py
-│   ├── core.py
-│   ├── log.py
-│   ├── learn.py
-│   ├── quiz.py
 │   ├── chant.py
-│   ├── start.py
+│   ├── core.py
+│   ├── dream.py
 │   ├── help.py
+│   ├── intent.py
+│   ├── key.py
+│   ├── learn.py
+│   ├── log.py
 │   ├── menu.py
-│   └── intent.py
+│   ├── quiz.py
+│   ├── scan.py
+│   ├── start.py
+│   ├── tehui.py
+│   ├── tune.py
+│   ├── upload.py
+│   └── wishdeck.py
 ├── keyboards/
 │   └── reply_keyboards.py
 ├── requirements.txt               # 必要依賴：python-telegram-bot 等
