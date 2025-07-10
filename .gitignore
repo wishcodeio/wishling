@@ -1,7 +1,8 @@
 __pycache__/
 *.pyc
+*.log
 .env
 .vscode/
 .idea/
 .DS_Store
-*.log
+*.sqlite3
